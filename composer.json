@@ -1,0 +1,16 @@
+{
+    "name": "gehlert/bootstrap4-theme",
+    "description": "Basic theme for the bootstrap4-grid module",
+    "type": "silverstripe-theme",
+    "keywords": ["silverstripe", "theme", "bootstrap4"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Guido Ehlert"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "silverstripe/framework": ">=4.0"
+    }
+}
